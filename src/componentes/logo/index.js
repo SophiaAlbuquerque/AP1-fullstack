@@ -1,4 +1,4 @@
-import logo from '../../imgs/logo-mercado-livre.png';
+import logo from '../../imgs/logo-new.png';
 import "./estilo.css"
 
 function Logo(){

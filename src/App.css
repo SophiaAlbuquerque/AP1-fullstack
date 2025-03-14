@@ -5,8 +5,8 @@
 }
 
 .App-header{
-    background-color: yellow;
-    color: black;
+    background-color: rgb(56, 56, 56);
+    color: rgb(228, 228, 228);
     display: flex;
     justify-content: center;
 }

@@ -1,9 +1,9 @@
 import './App.css';
 import Logo from "./componentes/logo/index"
-import sacola from "./imgs/sacola.png"
+import user from "./imgs/user.png"
 
 const navbarOpcoes = ['Crie a sua conta', 'Entrar', 'Compras']
-const navbarIcones = [sacola]
+const navbarIcones = [user]
 
 function App() {
   return (
